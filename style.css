@@ -6,3 +6,11 @@
     text-decoration: none;
     outline: none;
 }
+
+.main-container{
+    background-color: rebeccapurple;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
